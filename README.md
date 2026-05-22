@@ -47,7 +47,7 @@ This is the same architecture used in real microcontroller SPI peripherals (STM3
 ┌─────────────────────────────────────────────────────────────────┐
 │                        spi_fifo_top.v                           │
 │                                                                 │
-│  wr_en ──────→ ┌────────────┐  wr_en_mem  ┌──────────┐           │
+│  wr_en ──────→ ┌────────────┐  wr_en_mem  ┌──────────┐          │
 │  data_in ────→ │ fifo_ctrl  │ ──────────→ │          │          │
 │                │  (pointers │  rd_en_mem  │ fifo_mem │          │
 │  rd_en ──────→ │  & flags)  │ ──────────→ │ (8x8b    │          │
