@@ -243,13 +243,16 @@ spi_fifo_integration/
 - Worst Negative Slack (WNS): inf
 
 ### Schematic
-![Schematic](images/schematic.png)
+<img width="1920" height="1020" alt="spi_fifo_schematic" src="https://github.com/user-attachments/assets/18545ec9-e1a5-41eb-8c21-f2fb5cf94bca" />
+
 
 ### Utilization Report
-![Utilization](images/utilization.png)
+<img width="1920" height="1013" alt="spififo-utilization" src="https://github.com/user-attachments/assets/d35e98ed-d5fd-4649-be91-fd2df76a27ee" />
+
 
 ### Timing Report
-![Timing](images/timing.png)
+<img width="1920" height="1020" alt="spi_fifo_timing" src="https://github.com/user-attachments/assets/b4703d31-98c4-48be-8a4b-a850c7382223" />
+
 
 ---
 
